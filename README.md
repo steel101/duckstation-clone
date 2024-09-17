@@ -1,3 +1,5 @@
+Thanks you the emulator I'm going to use in it a emulator box that is being sold to the Public now because of this licence change sorry bud a digital license does not mean anything to me or anyone else we use the code that is on the public Internet under freedom of information Internet act so we will keep using it as we see fit 
+
 # DuckStation - PlayStation 1, aka. PSX Emulator
 [Features](#features) | [Downloading and Running](#downloading-and-running) | [Building](#building) | [Disclaimers](#disclaimers)
 
